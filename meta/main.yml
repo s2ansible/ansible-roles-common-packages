@@ -1,0 +1,18 @@
+galaxy_info:
+  role_name: common_packages
+  author: youyo
+  description: common packages
+  license: MIT
+  min_ansible_version: 2.4
+  platforms:
+    - name: Amazon
+    - name: EL
+      versions:
+        - 7
+        - 6
+
+  galaxy_tags:
+    - system
+
+dependencies:
+  - youyo.yumrepo_epel
