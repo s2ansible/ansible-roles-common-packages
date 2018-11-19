@@ -1,6 +1,7 @@
 galaxy_info:
   role_name: common_packages
   author: youyo
+  company: heptagon inc.
   description: common packages
   license: MIT
   min_ansible_version: 2.4

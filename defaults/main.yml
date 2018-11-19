@@ -1,2 +1,2 @@
 ---
-packages: wget,bash-completion,screen,sysstat,vim-enhanced,dstat,openssh-server,git,libtool,nc,sudo,logrotate,tar,ed,net-tools
+common_packages: wget,bash-completion,screen,sysstat,vim-enhanced,dstat,openssh-server,git,libtool,nc,sudo,logrotate,tar,ed,net-tools
